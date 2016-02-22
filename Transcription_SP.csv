@@ -1,0 +1,359 @@
+ID,Name,Compartment,"Copy number, typical",Type,Role
+ATP,ATP,c,36234,metabolite,substrate
+CTP,CTP,c,36234,metabolite,substrate
+GTP,GTP,c,36234,metabolite,substrate
+UTP,UTP,c,36234,metabolite,substrate
+PPI,diphosphate,c,5796,metabolite,product
+H2O,water,c,309737899,metabolite,substrate
+H,hydrogen ion,c,13042,metabolite,product
+TU_001,MG_001 - MG_002,c,0,rna,product
+TU_002,MG_003 - MG_004,c,0,rna,product
+TU_003,MG_005 - MG_009,c,1,rna,product
+TU_004,MG_010,c,0,rna,product
+TU_005,MG_011 - MG_012,c,0,rna,product
+TU_006,MG_013,c,0,rna,product
+MG471,MG471,c,35,rna,product
+MG472,MG472,c,36,rna,product
+TU_008,MG_014 - MG_015,c,0,rna,product
+TU_009,MG_018,c,0,rna,product
+TU_010,MG_019 - MG_021,c,0,rna,product
+TU_011,MG_022 - MG_024,c,0,rna,product
+TU_012,MG_025,c,0,rna,product
+TU_013,MG_026 - MG_028,c,0,rna,product
+TU_014,MG_029 - MG_031,c,0,rna,product
+TU_015,MG_032,c,0,rna,product
+TU_016,MG_033,c,0,rna,product
+TU_017,MG_034,c,0,rna,product
+TU_018,MG_035,c,0,rna,product
+TU_019,MG_036,c,0,rna,product
+TU_020,MG_037,c,0,rna,product
+TU_021,MG_038,c,0,rna,product
+TU_022,MG_039,c,0,rna,product
+TU_023,MG_040,c,0,rna,product
+TU_024,MG_041,c,0,rna,product
+TU_025,MG_042 - MG_044,c,0,rna,product
+TU_026,MG_045,c,0,rna,product
+TU_027,MG_046 - MG_047,c,0,rna,product
+TU_028,MG_048,c,0,rna,product
+TU_029,MG_049 - MG_051,c,1,rna,product
+TU_030,MG_052 - MG_053,c,0,rna,product
+TU_031,"MG_054, MG_055, MG_473",c,1,rna,product
+TU_032,"MG_056, MG_057, MG_474",c,0,rna,product
+TU_033,MG_058,c,0,rna,product
+TU_034,MG_059,c,0,rna,product
+TU_035,MG_060,c,0,rna,product
+TU_036,MG_061,c,0,rna,product
+MG475,MG475,c,6,rna,product
+TU_038,MG_062,c,0,rna,product
+TU_039,MG_063,c,0,rna,product
+TU_040,MG_064 - MG_065,c,0,rna,product
+TU_041,MG_066,c,0,rna,product
+TU_042,MG_067 - MG_068,c,0,rna,product
+TU_043,MG_069,c,0,rna,product
+TU_044,MG_070,c,0,rna,product
+TU_045,MG_071,c,0,rna,product
+TU_046,MG_072,c,0,rna,product
+TU_047,MG_073,c,0,rna,product
+TU_048,MG_074,c,0,rna,product
+TU_049,MG_075,c,1,rna,product
+TU_050,MG_076,c,0,rna,product
+TU_051,MG_077 - MG_080,c,0,rna,product
+TU_052,MG_081 - MG_082,c,0,rna,product
+TU_053,MG_083,c,0,rna,product
+TU_054,MG_084 - MG_085,c,1,rna,product
+TU_055,MG_086 - MG_089,c,0,rna,product
+TU_056,MG_090,c,0,rna,product
+TU_057,MG_091,c,2,rna,product
+TU_058,MG_092,c,2,rna,product
+TU_059,MG_093 - MG_095,c,0,rna,product
+TU_060,MG_096,c,0,rna,product
+TU_061,MG_097,c,0,rna,product
+TU_062,MG_098 - MG_100,c,2,rna,product
+TU_063,MG_101 - MG_103,c,0,rna,product
+TU_064,MG_476,c,0,rna,product
+TU_065,MG_104,c,0,rna,product
+TU_066,MG_105,c,1,rna,product
+TU_067,MG_106,c,0,rna,product
+TU_068,MG_107 - MG_110,c,0,rna,product
+TU_069,MG_111 - MG_112,c,0,rna,product
+TU_070,MG_113,c,0,rna,product
+TU_071,MG_114,c,0,rna,product
+TU_072,MG_115,c,0,rna,product
+TU_073,MG_116 - MG_118,c,0,rna,product
+TU_074,MG_119 - MG_122,c,0,rna,product
+TU_075,MG_123,c,0,rna,product
+TU_076,MG_124 - MG_125,c,0,rna,product
+TU_077,MG_126,c,0,rna,product
+TU_078,MG_127 - MG_128,c,0,rna,product
+TU_079,MG_129,c,0,rna,product
+TU_080,MG_130,c,0,rna,product
+TU_081,MG_131,c,0,rna,product
+TU_082,MG_132,c,0,rna,product
+TU_083,MG_133,c,0,rna,product
+TU_084,MG_134,c,0,rna,product
+TU_085,MG_135,c,0,rna,product
+TU_086,MG_136 - MG_138,c,1,rna,product
+TU_087,MG_139,c,0,rna,product
+MGrrnA16S,16S ribosomal rRNA,c,0,rna,product
+MGrrnA23S,23S ribosomal rRNA,c,0,rna,product
+MGrrnA5S,5S ribosomal rRNA,c,29,rna,product
+TU_089,MG_140,c,0,rna,product
+TU_090,MG_141,c,0,rna,product
+TU_091,MG_477,c,0,rna,product
+TU_092,MG_142 - MG_144,c,1,rna,product
+TU_093,MG_145,c,0,rna,product
+TU_094,MG_146,c,1,rna,product
+TU_095,MG_147,c,0,rna,product
+TU_096,MG_148,c,0,rna,product
+TU_097,MG_149,c,0,rna,product
+TU_098,MG_478,c,0,rna,product
+TU_099,MG_150,c,1,rna,product
+TU_100,MG_151,c,0,rna,product
+TU_101,MG_152 - MG_153,c,1,rna,product
+TU_102,MG_154 - MG_163,c,0,rna,product
+TU_103,MG_164,c,0,rna,product
+TU_104,MG_165 - MG_169,c,1,rna,product
+TU_105,MG_170 - MG_173,c,1,rna,product
+TU_106,MG_174,c,0,rna,product
+TU_107,MG_175 - MG_177,c,1,rna,product
+TU_108,MG_178,c,0,rna,product
+TU_109,MG_179,c,0,rna,product
+TU_110,MG_180,c,0,rna,product
+TU_111,MG_181,c,0,rna,product
+TU_112,MG_182,c,0,rna,product
+TU_113,MG_183 - MG_184,c,0,rna,product
+TU_114,MG_185,c,0,rna,product
+TU_115,MG_186,c,0,rna,product
+TU_116,MG_187 - MG_189,c,0,rna,product
+TU_117,MG_190,c,1,rna,product
+TU_118,MG_191 - MG_192,c,0,rna,product
+TU_119,MG_194 - MG_195,c,0,rna,product
+TU_120,MG_196 - MG_198,c,1,rna,product
+TU_121,MG_199,c,0,rna,product
+TU_122,MG_200 - MG_202,c,0,rna,product
+MG479,MG479,c,12,rna,product
+TU_124,MG_203 - MG_204,c,0,rna,product
+TU_125,MG_205,c,0,rna,product
+TU_126,MG_206,c,0,rna,product
+TU_127,MG_207,c,1,rna,product
+TU_128,MG_208 - MG_210,c,0,rna,product
+TU_129,MG_480,c,1,rna,product
+TU_130,MG_481,c,2,rna,product
+TU_131,"MG_211, MG_212, MG_482",c,0,rna,product
+TU_132,MG_213 - MG_214,c,2,rna,product
+TU_133,MG_215 - MG_216,c,2,rna,product
+MG483,MG483,c,5,rna,product
+MG484,MG484,c,30,rna,product
+MG485,MG485,c,6,rna,product
+MG486,MG486,c,22,rna,product
+MG487,MG487,c,10,rna,product
+MG488,MG488,c,5,rna,product
+MG489,MG489,c,42,rna,product
+MG490,MG490,c,27,rna,product
+TU_142,MG_217,c,0,rna,product
+TU_143,"MG_218, MG_491",c,0,rna,product
+TU_144,MG_219,c,0,rna,product
+TU_145,MG_220,c,0,rna,product
+MG492,MG492,c,6,rna,product
+TU_147,MG_221 - MG_223,c,0,rna,product
+TU_148,MG_224,c,2,rna,product
+TU_149,MG_225 - MG_226,c,0,rna,product
+TU_150,MG_227,c,0,rna,product
+TU_151,MG_228 - MG_231,c,1,rna,product
+TU_152,MG_232 - MG_236,c,1,rna,product
+TU_153,MG_237,c,0,rna,product
+TU_154,MG_238,c,0,rna,product
+TU_155,MG_239,c,0,rna,product
+TU_156,MG_240,c,1,rna,product
+TU_157,MG_241,c,0,rna,product
+TU_158,MG_242,c,0,rna,product
+TU_159,MG_243 - MG_244,c,0,rna,product
+TU_160,MG_245,c,0,rna,product
+TU_161,MG_246,c,0,rna,product
+TU_162,MG_247,c,0,rna,product
+TU_163,MG_248 - MG_249,c,0,rna,product
+TU_164,MG_250 - MG_251,c,0,rna,product
+TU_165,MG_252 - MG_254,c,2,rna,product
+MG493,MG493,c,25,rna,product
+TU_167,"MG_255, MG_494",c,0,rna,product
+MG495,MG495,c,3,rna,product
+MG496,MG496,c,4,rna,product
+TU_169,MG_256,c,0,rna,product
+TU_170,MG_257 - MG_259,c,2,rna,product
+TU_171,MG_260,c,0,rna,product
+MG497,MG497,c,4,rna,product
+TU_173,"MG_261, MG_262, MG_498",c,0,rna,product
+TU_174,MG_263,c,0,rna,product
+TU_175,MG_264,c,0,rna,product
+TU_176,MG_265 - MG_267,c,0,rna,product
+TU_177,MG_268,c,0,rna,product
+MG_0001,"scRNA, signal recognition particle 4.5S RNA, MCS1",c,0,rna,product
+TU_179,MG_269,c,0,rna,product
+TU_180,MG_270 - MG_272,c,3,rna,product
+MG_0002,MG170 RNA,c,21,rna,product
+TU_182,MG_273 - MG_275,c,6,rna,product
+TU_183,MG_276,c,0,rna,product
+TU_184,MG_277,c,0,rna,product
+TU_185,MG_278,c,0,rna,product
+TU_186,MG_279 - MG_281,c,0,rna,product
+MG499,MG499,c,21,rna,product
+MG500,MG500,c,30,rna,product
+MG501,MG501,c,18,rna,product
+MG502,MG502,c,37,rna,product
+MG503,MG503,c,22,rna,product
+TU_190,MG_282,c,0,rna,product
+TU_191,MG_283,c,0,rna,product
+TU_192,MG_284 - MG_286,c,0,rna,product
+TU_193,MG_287,c,1,rna,product
+MG504,MG504,c,4,rna,product
+TU_195,MG_288,c,0,rna,product
+TU_196,MG_289 - MG_291,c,0,rna,product
+TU_197,MG_505,c,1,rna,product
+TU_198,MG_292 - MG_294,c,0,rna,product
+TU_199,MG_295,c,0,rna,product
+TU_200,MG_296,c,0,rna,product
+TU_201,MG_297,c,0,rna,product
+TU_202,MG_298,c,1,rna,product
+TU_203,MG_299,c,0,rna,product
+TU_204,MG_300 - MG_301,c,0,rna,product
+TU_205,MG_302,c,0,rna,product
+TU_206,MG_303,c,0,rna,product
+TU_207,MG_304,c,0,rna,product
+TU_208,MG_305,c,0,rna,product
+TU_209,MG_306,c,0,rna,product
+TU_210,MG_307,c,0,rna,product
+TU_211,MG_308 - MG_309,c,0,rna,product
+TU_212,MG_310,c,0,rna,product
+TU_213,MG_311,c,0,rna,product
+TU_214,MG_312,c,1,rna,product
+TU_215,MG_313 - MG_315,c,0,rna,product
+TU_216,MG_316,c,0,rna,product
+TU_217,MG_317 - MG_318,c,0,rna,product
+TU_218,MG_319,c,0,rna,product
+TU_219,MG_320,c,0,rna,product
+MG506,MG506,c,7,rna,product
+MG507,MG507,c,11,rna,product
+TU_222,MG_321,c,0,rna,product
+MG508,MG508,c,30,rna,product
+MG509,MG509,c,28,rna,product
+MG510,MG510,c,25,rna,product
+MG511,MG511,c,27,rna,product
+MG512,MG512,c,30,rna,product
+MG513,MG513,c,27,rna,product
+MG514,MG514,c,27,rna,product
+TU_224,MG_322,c,0,rna,product
+TU_225,MG_323,c,0,rna,product
+MG_0003,"Rnase P RNA, MCS5, M1 RNA",c,0,rna,product
+MG_0004,"transfer-messenger RNA, tmRNA, MCS6, 10Sa RNA",c,2,rna,product
+TU_228,"MG_324, MG_325, MG_515",c,0,rna,product
+TU_229,MG_326,c,0,rna,product
+TU_230,MG_327,c,0,rna,product
+TU_231,MG_328,c,0,rna,product
+TU_232,MG_329,c,0,rna,product
+TU_233,MG_330 - MG_333,c,0,rna,product
+TU_234,MG_334,c,0,rna,product
+TU_235,MG_335,c,0,rna,product
+TU_236,MG_516,c,0,rna,product
+TU_237,MG_517,c,0,rna,product
+TU_238,MG_336,c,0,rna,product
+TU_239,MG_337,c,0,rna,product
+TU_240,MG_338,c,0,rna,product
+TU_241,MG_339,c,1,rna,product
+TU_242,MG_340 - MG_341,c,2,rna,product
+TU_243,MG_342,c,0,rna,product
+TU_244,MG_343,c,0,rna,product
+TU_245,MG_344,c,0,rna,product
+TU_246,MG_345,c,0,rna,product
+TU_247,MG_346 - MG_347,c,0,rna,product
+MG518,MG518,c,9,rna,product
+TU_249,MG_348,c,0,rna,product
+MG519,MG519,c,13,rna,product
+TU_251,MG_349 - MG_350,c,0,rna,product
+MG520,MG520,c,16,rna,product
+TU_253,MG_521,c,0,rna,product
+TU_254,MG_351,c,0,rna,product
+TU_255,MG_352,c,0,rna,product
+TU_256,MG_353,c,0,rna,product
+TU_257,MG_354,c,0,rna,product
+TU_258,MG_355,c,1,rna,product
+TU_259,MG_356,c,0,rna,product
+TU_260,MG_357,c,0,rna,product
+TU_261,MG_358 - MG_359,c,0,rna,product
+TU_262,MG_360,c,0,rna,product
+TU_263,MG_361 - MG_363,c,0,rna,product
+TU_264,MG_522,c,0,rna,product
+TU_265,MG_364,c,0,rna,product
+TU_266,MG_365,c,0,rna,product
+TU_267,MG_366,c,0,rna,product
+TU_268,MG_367 - MG_369,c,0,rna,product
+TU_269,MG_370,c,0,rna,product
+TU_270,MG_371,c,0,rna,product
+TU_271,MG_372 - MG_375,c,0,rna,product
+TU_272,MG_376,c,0,rna,product
+TU_273,MG_377,c,0,rna,product
+TU_274,MG_378,c,0,rna,product
+TU_275,MG_379 - MG_381,c,0,rna,product
+MG523,MG523,c,6,rna,product
+TU_277,MG_382,c,0,rna,product
+TU_278,MG_383,c,0,rna,product
+TU_279,MG_384,c,0,rna,product
+TU_280,"MG_385, MG_524",c,0,rna,product
+TU_281,MG_386,c,0,rna,product
+TU_282,MG_387 - MG_388,c,0,rna,product
+TU_283,MG_389,c,0,rna,product
+TU_284,MG_390,c,0,rna,product
+TU_285,MG_391 - MG_393,c,2,rna,product
+TU_286,MG_394,c,0,rna,product
+TU_287,MG_395,c,0,rna,product
+TU_288,MG_396 - MG_397,c,0,rna,product
+TU_289,MG_398,c,0,rna,product
+TU_290,MG_399,c,0,rna,product
+TU_291,MG_400 - MG_401,c,0,rna,product
+TU_292,MG_402 - MG_405,c,0,rna,product
+TU_293,MG_406,c,0,rna,product
+TU_294,MG_407,c,1,rna,product
+TU_295,MG_408,c,0,rna,product
+TU_296,MG_409 - MG_412,c,0,rna,product
+TU_297,MG_414,c,0,rna,product
+TU_298,MG_525,c,0,rna,product
+TU_299,MG_417,c,1,rna,product
+TU_300,MG_418,c,0,rna,product
+TU_301,"MG_419, MG_421, MG_422, MG_423",c,0,rna,product
+TU_302,MG_424,c,0,rna,product
+TU_303,MG_425,c,0,rna,product
+TU_304,MG_426,c,0,rna,product
+TU_305,MG_427,c,1,rna,product
+TU_306,MG_428,c,0,rna,product
+TU_307,MG_429 - MG_431,c,0,rna,product
+TU_308,MG_432,c,0,rna,product
+TU_309,MG_433,c,0,rna,product
+TU_310,MG_434,c,0,rna,product
+TU_311,MG_435,c,0,rna,product
+TU_312,MG_437,c,0,rna,product
+TU_313,MG_438,c,0,rna,product
+TU_314,MG_439,c,0,rna,product
+TU_315,MG_440 - MG_441,c,0,rna,product
+TU_316,MG_442 - MG_443,c,0,rna,product
+TU_317,MG_444 - MG_446,c,0,rna,product
+TU_318,MG_447,c,0,rna,product
+TU_319,MG_448,c,0,rna,product
+TU_320,MG_449,c,0,rna,product
+TU_321,MG_450 - MG_451,c,0,rna,product
+TU_322,MG_452 - MG_453,c,2,rna,product
+TU_323,MG_454,c,0,rna,product
+TU_324,MG_455,c,1,rna,product
+TU_325,MG_456,c,0,rna,product
+TU_326,MG_457,c,0,rna,product
+TU_327,MG_458,c,0,rna,product
+TU_328,MG_459,c,0,rna,product
+TU_329,MG_460,c,0,rna,product
+TU_330,MG_461 - MG_462,c,1,rna,product
+TU_331,MG_463 - MG_465,c,1,rna,product
+TU_332,MG_466,c,0,rna,product
+TU_333,MG_467 - MG_468,c,0,rna,product
+TU_334,MG_526,c,0,rna,product
+TU_335,MG_469 - MG_470,c,0,rna,product
+MG_249_MONOMER,RNA polymerase sigma factor RpoD,c,13,protein-monomer,enzyme
+MG_282_MONOMER,transcription elongation factor GreA,c,50,protein-monomer,enzyme
+MG_141_MONOMER,transcription termination factor NusA,c,17,protein-monomer,enzyme
+RNA_POLYMERASE,DNA-directed RNA polymerase,c,40,protein-complex,product
